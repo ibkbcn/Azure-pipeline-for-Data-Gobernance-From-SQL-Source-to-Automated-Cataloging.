@@ -18,7 +18,7 @@ Seguridad y Permisos: Uso de Managed Identity (MSI) con permisos db_owner y VIEW
 Proceso: Ejecución de Scans automáticos con detección profunda para la clasificación de datos sensibles.
 
 
-# Resultados
+## Resultados
 Catalogación: Catalogación automatizada de las tablas de Clientes, Pedidos, Productos y pagos, eliminando el mantenimiento de diccionarios manuales y acelerando el descubrimiento de datos para los analistas.
 
 Clasificación y Cumplimiento (GDPR): Identificación autónoma de datos sensibles de geolocalización y privacidad, permitiendo una gestión de riesgos proactiva y alineada con normativas internacionales.
