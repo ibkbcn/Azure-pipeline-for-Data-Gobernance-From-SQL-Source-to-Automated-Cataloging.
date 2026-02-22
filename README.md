@@ -25,3 +25,5 @@ Clasificación y Cumplimiento (GDPR): Identificación autónoma de datos sensibl
 
 
 *Nota técnica:* Para profundizar en la configuración y ver el paso a paso detallado, consulte el PDF de la guía de implementación adjunto en este repositorio.
+[!IMPORTANT]
+Nota técnica: Para profundizar en la configuración y ver el paso a paso detallado, consulte el PDF de la guía de implementación adjunto en este repositorio.
