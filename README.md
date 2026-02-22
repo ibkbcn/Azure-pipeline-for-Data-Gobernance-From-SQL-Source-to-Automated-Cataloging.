@@ -22,3 +22,6 @@ Proceso: Ejecución de Scans automáticos con detección profunda para la clasif
 Catalogación: Catalogación automatizada de las tablas de Clientes, Pedidos, Productos y Pagos, eliminando el mantenimiento de diccionarios manuales y acelerando el descubrimiento de datos para los analistas.
 
 Clasificación y Cumplimiento (GDPR): Identificación autónoma de datos sensibles de geolocalización y privacidad, permitiendo una gestión de riesgos proactiva y alineada con normativas internacionales.
+
+
+Para mayor detalle, consulte el PDF de la guía de implementación.
