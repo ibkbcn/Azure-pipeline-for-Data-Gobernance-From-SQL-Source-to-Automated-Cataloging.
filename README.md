@@ -1,4 +1,4 @@
-# Azure pipeline for Gobernance: From SQL Source to Microsoft Purview
+# Azure pipeline for Governance: From SQL Source to Microsoft Purview
 
 
 ## Objetivo del Proyecto
